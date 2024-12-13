@@ -1,4 +1,3 @@
-# Equities-Trading-Strategies-Leveraging-Aspect-Based-Sentiment-Analysis
 # Equities Trading Strategy Using Sentiment Analysis
 
 This project demonstrates the development of an algorithmic trading strategy by integrating sentiment analysis of Reddit posts from the WallStreetBets subreddit with traditional market indicators. The goal is to leverage advanced NLP models to predict sentiment and combine it with financial indicators to enhance trading decisions.
