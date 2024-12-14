@@ -26,7 +26,7 @@ This project demonstrates the development of an algorithmic trading strategy by 
 
 ## Documentation and Resources
 - **Project Documentation:** [View Documentation](./documentation/project_report.pdf)
-- **Video Presentation:** [Watch Video](https://northeastern-my.sharepoint.com/personal/anand_ha_northeastern_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fanand%5Fha%5Fnortheastern%5Fedu%2FDocuments%2FRecordings%2FMeeting%20in%20NLP%20project%2D20241212%5F214445%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee3911246%2D0665%2D4489%2Da1ab%2D661e690ecde1)
+- **Video Presentation:** [Watch Video](./documentation/Presentation Video.mp4).
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
