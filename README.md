@@ -26,7 +26,9 @@ This project demonstrates the development of an algorithmic trading strategy by 
 
 ## Documentation and Resources
 - **Project Documentation:** [View Documentation](./documentation/project_report.pdf)
-- **Video Presentation:** [Watch Video](./documentation/Presentation Video.mp4).
+- **Video Presentation:** [Watch Video](./documentation/Presentation_Video.mp4)
+
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
