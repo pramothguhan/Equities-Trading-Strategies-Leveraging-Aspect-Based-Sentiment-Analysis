@@ -51,6 +51,11 @@ The results section highlights the performance of the sentiment classification m
 - **Project Documentation:** [View Documentation](./documentation/project_report.pdf)
 - **Video Presentation:** [Watch Video](./documentation/Presentation_Video.mp4)
 
+## Contributors
+- Aman Bhutani
+- Haritha Anand
+- - Pramoth Guhan
+
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
 
