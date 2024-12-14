@@ -44,17 +44,20 @@ This project demonstrates the development of an algorithmic trading strategy by 
    This generates the P&L charts and total return metrics.
 
 ## Results
+
+The results section highlights the performance of the sentiment classification models and the trading strategy. GPT-Neo achieved the highest accuracy (88%) among the models tested, as demonstrated in the learning curves and performance metrics. The trading strategy simulation, depicted in the P&L chart, showed consistent portfolio growth, with a total return of 8.87% over 18 months, validating the integration of sentiment analysis with technical indicators for effective decision-making.
+
 ### Accuracy Learning Curve (GPT-Neo)
-![Accuracy Learning Curve](https://github.com/<your-repo>/blob/main/results/Accuracy%20Learning%20Curve%20GPT%20Neo.jpg)
+![Accuracy Learning Curve](https://raw.githubusercontent.com/pramothguhan/Equities-Trading-Strategy-Using-Sentiment-Analysis/main/results/Accuracy%20Learning%20Curve%20GPT%20Neo.jpg)
 
 ### Loss Learning Curve (GPT-Neo)
-![Loss Learning Curve](https://github.com/<your-repo>/blob/main/results/Loss%20Learning%20Curve%20GPT%20Neo.jpg)
+![Loss Learning Curve](https://raw.githubusercontent.com/pramothguhan/Equities-Trading-Strategy-Using-Sentiment-Analysis/main/results/Loss%20Learning%20Curve%20GPT%20Neo.jpg)
 
 ### Performance Metrics
-![Metrics Table](https://github.com/<your-repo>/blob/main/results/Metrics%20Table.jpg)
+![Metrics Table](https://raw.githubusercontent.com/pramothguhan/Equities-Trading-Strategy-Using-Sentiment-Analysis/main/results/Metrics%20Table.jpg)
 
 ### P&L Chart
-![P&L Chart](https://github.com/<your-repo>/blob/main/results/P&L%20Chart.jpg)
+![P&L Chart](https://raw.githubusercontent.com/pramothguhan/Equities-Trading-Strategy-Using-Sentiment-Analysis/main/results/P&L%20Chart.jpg)
 
 ## Documentation and Resources
 - **Project Documentation:** [View Documentation](./documentation/project_report.pdf)
