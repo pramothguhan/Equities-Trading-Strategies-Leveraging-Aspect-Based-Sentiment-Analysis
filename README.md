@@ -19,27 +19,52 @@ This project demonstrates the development of an algorithmic trading strategy by 
 - **YFinance API**: For retrieving historical financial data.
 - **Backtrader**: For simulating and back-testing trading strategies.
 
+## Setup Instructions
+1. Open terminal and navigate to the folder where you want to save the repo using the command:
+   ```bash
+   cd <dir path>
+   ```
+2. Clone the repository:
+   ```bash
+   git clone <link to repo>
+   ```
+3. Open the cloned repository folder in a local code editor (e.g., VSCode).
+4. Run the data preprocessing steps in the following sequence:
+   - `dpp_eda.py`
+   - `absa_dpp.py`
+   Make sure to replace the paths to load the `reddit_wsb.csv` data in the files (the CSV file is in the `data/` folder after cloning). Update paths to save the final preprocessed files as needed.
+5. Execute the sentiment analysis scripts:
+   - `bert.py`
+   - `gpt2.py`
+   - `gpt_neo.py`
+6. Run the trading strategy simulation:
+   ```bash
+   python scripts/trading_strategy.py
+   ```
+   This generates the P&L charts and total return metrics.
+
 ## Results
-- **Sentiment Classification:** GPT-Neo outperformed other models, achieving the highest accuracy (88%) in predicting sentiments.
-- **Trading Strategy Performance:** The trading strategy yielded an 8.87% return during 18 months of back-testing.
-- **Metrics Evaluated:** Metrics like Sharpe Ratio and Returns-to-Drawdown ratio validate the profitability and resilience of the strategy.
+### Accuracy Learning Curve (GPT-Neo)
+![Accuracy Learning Curve](https://github.com/<your-repo>/blob/main/results/Accuracy%20Learning%20Curve%20GPT%20Neo.jpg)
+
+### Loss Learning Curve (GPT-Neo)
+![Loss Learning Curve](https://github.com/<your-repo>/blob/main/results/Loss%20Learning%20Curve%20GPT%20Neo.jpg)
+
+### Performance Metrics
+![Metrics Table](https://github.com/<your-repo>/blob/main/results/Metrics%20Table.jpg)
+
+### P&L Chart
+![P&L Chart](https://github.com/<your-repo>/blob/main/results/P&L%20Chart.jpg)
 
 ## Documentation and Resources
 - **Project Documentation:** [View Documentation](./documentation/project_report.pdf)
 - **Video Presentation:** [Watch Video](./documentation/Presentation_Video.mp4)
-
-
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-- **Hugging Face** for providing transformer models.
-- **WallStreetBets Subreddit** for the dataset.
-- **Backtrader** for the trading simulation framework.
 
 ## References
 - Chen, Y., Li, X., & Zhang, Z. (2022). Aspect-based Sentiment Analysis in Financial News. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP).
