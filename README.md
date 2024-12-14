@@ -54,7 +54,7 @@ The results section highlights the performance of the sentiment classification m
 ## Contributors
 - Aman Bhutani
 - Haritha Anand
-- - Pramoth Guhan
+- Pramoth Guhan
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
